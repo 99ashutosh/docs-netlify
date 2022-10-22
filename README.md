@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/275c2aad-ecdb-4d92-a9e7-0dbcffe6e592/deploy-status)](https://app.netlify.com/sites/99ashutosh/deploys)
+
 # Docsy Example
 
 [Docsy][] is a [Hugo theme module][] for technical documentation sites, providing easy
